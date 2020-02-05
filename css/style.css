@@ -2,6 +2,9 @@ html{
     scroll-behavior: smooth;
 }
 
+header{
+  background-color: #000;
+}
 body{
   background-color: #ddd;
   font-size: 18px;
@@ -10,6 +13,7 @@ body{
 }
 
 h1{
+  background-color: transparent;
   font-size: 50px;
   line-height: 1;
   padding: 50px 0;
